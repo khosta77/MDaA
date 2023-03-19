@@ -1,7 +1,0 @@
-[10980]  Error log for : Schematic 1.DS1.dsf
-	[10980]	Read lock timed out : Lock being acquired for 'header load' {GetISimDataSetsForProject}
-	[10980]	Unable to acquire file lock for the data set
-	[10980]	Read lock timed out : Lock being acquired for 'header load' {GetISimDataSetsForProject}
-	[10980]	Unable to acquire file lock for the data set
-	[10980]	Read lock timed out : Lock being acquired for 'header load' {GetISimDataSetsForProject}
-	[10980]	Unable to acquire file lock for the data set
