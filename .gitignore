@@ -9,3 +9,7 @@
 *.aux
 *.xml
 *.vin
+
+DATA_SETS/*
+TEMP/*
+*.vin
