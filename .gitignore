@@ -1,1 +1,15 @@
 *.DS_Store
+
+*.toc
+*.synctex.*
+*.run
+*.out
+*.log
+*.bcf
+*.aux
+*.xml
+*.vin
+
+DATA_SETS/*
+TEMP/*
+*.vin
